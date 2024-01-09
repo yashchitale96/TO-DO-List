@@ -1,2 +1,2 @@
 # TO-DO List
- Simple TO-DO WebPage using HTML, CSS, Javascrpt
+ Simple TO-DO list WebPage using HTML, CSS, Javascrpt
